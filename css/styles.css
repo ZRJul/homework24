@@ -1,0 +1,17 @@
+#userList {
+    list-style: none;
+}
+
+#userList li {
+    margin-bottom: 10px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#userList button {
+    padding: 0 5px;
+    margin-left: 10px;
+    border-radius: 5px;
+    background-color: white;
+
+}
